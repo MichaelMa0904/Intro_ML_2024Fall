@@ -1,2 +1,2 @@
 # Intro_ML_2024Fall
-Homework
+This is a repository for the ML class Homework
